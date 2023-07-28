@@ -7,7 +7,7 @@ Scripts de DDL, DML, DQL, para definição, manipulação e realização de quer
 
 `Plano de Projeto Interdisciplinar:` Um sistema criado em Java, com API em C#, que ajude o usuário a comparar os preços dos produtos de mercado para tomar sua decisão de compra.  
 
-`LP:` C-sharp
+`LP:` Java, C-sharp
 > Focal Point: Angelica Acevedo
 
 `BD:` MySQL Workbench
